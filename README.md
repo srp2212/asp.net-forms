@@ -1,0 +1,2 @@
+# asp.net-forms
+In this project,I developed an application in asp.net windows forms.In this application,I want to calculate factorial and check the prime numbers of the numbers upto 25.Separate windows forms are created for factorial function and checking the prime number.Radio buttons are used to redirect the function to respective windows form.Events are handled by the buttons.IDE used is Visual studio 2017.
